@@ -1,4 +1,4 @@
-# W6D1 - Lecture
+# W8D4 - Lecture
 
 ## Intro to Ruby
 
